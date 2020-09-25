@@ -16,7 +16,7 @@ The TV_prediction.m file loads the data of one of the six online communities at 
 
 ## Installation and Usage
 
-Please install the MATLAB package CVX from http://cvxr.com/cvx/.
+Please install the MATLAB package CVX from http://cvxr.com/cvx/download/.
 
 First activate CVX from the MATLAB console:
 ```
