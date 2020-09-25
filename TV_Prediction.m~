@@ -16,6 +16,7 @@ lambda = 0.004; % Regularization parameter in equations (5) and (6) selected
 
 n_promt = 5; % Number of prompts
 TV_cont = zeros(n_promt,1); % Total Variation accross the network
+
 hhh = strcat('group',num2str(Group),'/group',num2str(Group));
 ggg = strcat(hhh,'_rating_table.csv');
 x_cont = [];
