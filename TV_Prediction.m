@@ -8,7 +8,7 @@ close all;
 
 %% input
 
-Group = 1; % can be 1,2,3,4,5 or 6 representing the six different groups
+Group = 2; % can be 1,2,3,4,5 or 6 representing the six different groups
 lambda = 0.004; % Regularization parameter in equations (5) and (6) selected using model selection approaches (e.g., leave-one-out)
 
 %% Reading files and analyzing TV
